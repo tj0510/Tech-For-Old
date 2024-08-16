@@ -1,6 +1,7 @@
 # Tech_For_Old
 
 Tech_For_Old is a Java console application designed to assist elderly users by providing quick access to essential services and information. The application offers a variety of features, including medical help, spiritual content, entertainment, and social services.
+This application was created in a local hackathon. Could not have done it without the help of my teammates.
 
 ## Features
 
